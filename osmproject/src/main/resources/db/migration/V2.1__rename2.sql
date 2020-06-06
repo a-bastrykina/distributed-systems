@@ -1,0 +1,1 @@
+alter table node_of_way rename to nodes_ways;
